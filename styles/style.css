@@ -3,12 +3,17 @@
 	color: white;
 }
 
+html {
+	font-size: 50px;
+}
+
 h1 {
 	text-align: center;
 	color: #233139;
 	font-size: 50px;
 	font-family: 'Raleway';
 	font-weight: bolder;
+	font-size: 1rem;
 }
 
 body {
@@ -17,6 +22,11 @@ body {
 
 thead {
 	background: #233139;
+	font-size: .75rem;
+}
+
+tbody {
+	font-size: .5rem;
 }
 img {
 	position: absolute;
