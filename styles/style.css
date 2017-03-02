@@ -27,6 +27,10 @@ td {
 	color: black;
 }
 
+tr:nth-child(even) {
+    background: #eee;
+}
+
 .container {
 	top: 50px;
 	position: relative;
