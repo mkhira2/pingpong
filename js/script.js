@@ -17,7 +17,7 @@ var constructTable = function(apiResponse) {
 	tableNode.innerHTML = htmlString
 }
 setInterval(function() {
-var promise = $.getJSON('js/localdata.json')
+var promise = $.getJSON('https://ironpong.herokuapp.com/home/index.json')
 
 promise.then(constructTable)
 }, 1000)
