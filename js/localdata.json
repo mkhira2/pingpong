@@ -1,0 +1,58 @@
+[
+{
+"id": 2,
+"name": "Kenji Hirabayashi",
+"win_count": 3,
+"loss_count": 0,
+"winning_percentage": 75
+},
+{
+"id": 8,
+"name": "jamesjsewell",
+"win_count": 0,
+"loss_count": 0,
+"winning_percentage": 0
+},
+{
+"id": 7,
+"name": "Reggie",
+"win_count": 0,
+"loss_count": 2,
+"winning_percentage": 0
+},
+{
+"id": 6,
+"name": "Conner Clifton",
+"win_count": 0,
+"loss_count": 0,
+"winning_percentage": 0
+},
+{
+"id": 5,
+"name": "Laurent Nocca",
+"win_count": 0,
+"loss_count": 0,
+"winning_percentage": 0
+},
+{
+"id": 4,
+"name": "Patrick Hildreth",
+"win_count": 0,
+"loss_count": 1,
+"winning_percentage": 0
+},
+{
+"id": 3,
+"name": "Jeff Bezos",
+"win_count": 0,
+"loss_count": 0,
+"winning_percentage": 0
+},
+{
+"id": 1,
+"name": "DorkTron",
+"win_count": 0,
+"loss_count": 0,
+"winning_percentage": 0
+}
+]

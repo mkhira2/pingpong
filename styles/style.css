@@ -1,0 +1,18 @@
+* {
+	font-family: 'Roboto', sans-serif;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+body {
+	background: #233139;
+}
+
+thead {
+	background: #6fbbb7;
+}
+
