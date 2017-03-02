@@ -5,14 +5,30 @@
 
 h1 {
 	text-align: center;
-	color: white;
+	color: #233139;
+	font-size: 50px;
+	font-family: 'Raleway';
+	font-weight: bolder;
 }
 
 body {
-	background: #233139;
+	background: white;
 }
 
 thead {
-	background: #6fbbb7;
+	background: #233139;
+}
+img {
+	position: absolute;
+	top: 10px;
+	left: 100px;
 }
 
+td {
+	color: black;
+}
+
+.container {
+	top: 50px;
+	position: relative;
+}

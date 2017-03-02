@@ -3,11 +3,11 @@ var constructTable = function(apiResponse) {
 	var htmlString = ''
 	for (var i = 0; i < apiResponse.length; i++) {
 		if(!(i%2)){
-			htmlString += '<tr style="background: #727d84">'
+			htmlString += '<tr style="background: #white">'
 		}
 		else
 		{
-			htmlString += '<tr style="background: #39464e">'
+			htmlString += '<tr style="background: #eee">'
 		}
 	htmlString += '<td>' + apiResponse[i].name + '</td>'
 	htmlString += '<td>' + apiResponse[i].win_count + '</td>'
