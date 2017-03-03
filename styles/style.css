@@ -1,5 +1,5 @@
 * {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto', sans-serif !important;
 	color: white;
 }
 
@@ -28,9 +28,18 @@ thead {
 tbody {
 	font-size: .5rem;
 }
-img {
-	position: absolute;
-	top: 10px;
+
+.header{
+	margin: auto;
+	text-align: center;
+}
+
+.logo{
+	margin:auto;	
+	width: 256px;
+	text-align: center;
+	max-width: 100%;
+	padding:1%;
 }
 
 td {
