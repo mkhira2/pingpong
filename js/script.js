@@ -14,7 +14,7 @@ var constructTable = function(apiResponse) {
 setInterval(function() {
 	var promise = $.getJSON('https://ironpong.herokuapp.com/home/index.json')
 	promise.then(constructTable)
-}, 1000)
+}, 10000)
 
 
 
